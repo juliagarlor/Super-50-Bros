@@ -30,7 +30,7 @@ git clone https://github.com/juliagarlor/Super-50-Bros.git
 
 Special thanks to the team of CS50 of Harvard University, without whom I wouldn't have been able to develop not only this project but my passion for videogames programming. 
 
-Please, make sure to check the lecture to develop this project in the following link: https://youtu.be/3IdOCxHGMIo
+Please, make sure to check the lecture to develop this project in the following link: https://youtu.be/gvONAgleKPg
 
 Regarding to this Super-50-Bros version, any feedback for improvement is welcome, and I hope you have fun using it.
 
